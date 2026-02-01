@@ -1,7 +1,7 @@
 # Social Network Data Schema
 
 ## Project Overview
-This project simulates the backend data architecuter of a social networking platform. It uses the relational database design priciples of data normalization, and query optimiation.
+This project simulates the backend data architecture of a social networking platform. It uses the relational database design priciples of data normalization and query optimization.
 
 ## Features
 * **User Entities:** Stores user information such as username, profile settings, and privacy
